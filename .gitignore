@@ -1,6 +1,9 @@
-home
-training.tar
 testing.tar
+training.tar
+test
+train
+test_annotations.json
+train_annotations.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python

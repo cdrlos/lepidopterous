@@ -22,7 +22,6 @@ from util import base64_to_pil
 # Declare a flask app
 app = Flask(__name__)
 
-
 # You can use pretrained model from Keras
 # Check https://keras.io/applications/
 # or https://www.tensorflow.org/api_docs/python/tf/keras/applications
